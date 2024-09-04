@@ -3,6 +3,7 @@ padding:0;
 } /*Não deixar que os itens da página atinjam as extremidades*/
 
 hr{
+    background-color: #0c0c0c; /* Cor de fundo */
     display: block;/*Não permite movimentação da linha*/
     margin-top: 0,5em;/*Espaçamento entre o topo da margen*/
     margin-bottom: 0,5em;/*Espaçamento entre a parte*/
